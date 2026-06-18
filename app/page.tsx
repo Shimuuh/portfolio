@@ -1422,7 +1422,7 @@ export default function Home() {
         title: "Personal Portfolio",
         period: "2025 – Present",
         url: "shima-portfolio.vercel.app",
-        liveUrl: "https://shima-portfolio.vercel.app",
+        liveUrl: "https://shima-shamsudheen.vercel.app",
         githubUrl: "https://github.com/yourname/portfolio",
         problem: "Needed a clean, fast personal site that represents my skills professionally to recruiters.",
         solution: "Designed and developed a responsive portfolio focused on typography, accessibility and clean layouts.",
